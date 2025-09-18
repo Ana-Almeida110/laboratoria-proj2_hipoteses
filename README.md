@@ -119,8 +119,7 @@ Projeto desenvolvido em dupla por **Ana Paula de Almeida Coiado** e **Mariucha P
 ---
 
 ## Links de Interesse  
-- [Projeto no Power BI](https://exemplo.com/powerbi)  
-- [Projeto no BigQuery](https://exemplo.com/bigquery)  
-- [Ficha Técnica (Notion)](https://exemplo.com/notion)  
-- [Apresentação](https://exemplo.com/apresentacao)  
+ 
+- [Ficha Técnica (Notion)](https://www.notion.so/Projeto-2-2398dc77aa2d80968fa3c09e5f700d4a?source=copy_link)  
+- [Apresentação](https://www.loom.com/share/22d287e373464d82a8a71b400a266f25?sid=dafca777-bba4-4f51-a7db-98ce272073b6)
 
