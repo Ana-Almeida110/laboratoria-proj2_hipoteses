@@ -122,5 +122,5 @@ Projeto desenvolvido em dupla por **Ana Paula de Almeida Coiado** e **Mariucha P
  
 - [Ficha Técnica (Notion)](https://www.notion.so/Projeto-2-2398dc77aa2d80968fa3c09e5f700d4a?source=copy_link)  
 - [Apresentação](https://www.loom.com/share/22d287e373464d82a8a71b400a266f25?sid=dafca777-bba4-4f51-a7db-98ce272073b6)
-- [Comandos utilizados na preparação da base](https://github.com/Ana-Almeida110/laboratoria-proj2_hipoteses/blob/main/sql_preparacao_bd/tratamento_dados.sql)   
+- [Comandos utilizados na preparação da base](https://github.com/Ana-Almeida110/laboratoria-proj2_hipoteses/blob/main/preparacao_base.sql)
 
